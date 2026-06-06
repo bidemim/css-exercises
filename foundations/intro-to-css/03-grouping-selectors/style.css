@@ -1,9 +1,15 @@
 /* Add CSS Styling */
-.common {
+.common, .unique {
     font-family: Helvetica, "Times New Roman" sans-serif;
     font-size: 28px;
 }
 
-#unique {
+.common {
+    background-color: black;
+    color: white;
+}
+
+.unique {
+    background-color: yellow;
 
 }
