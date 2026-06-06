@@ -7,15 +7,15 @@
 
 .new-font-size {
     font-size: 24px;
-}
+    }
 
-#unique-id {
+#div1 {
     font-size: 36px;
     color: #0000ff;
-}
+    }
 
-#another-unique-id {
+#div2 {
     background-color: #90ee90;
     font-weight: bold;
-}
+    }
 
