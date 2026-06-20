@@ -14,16 +14,20 @@ div {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 10px 7px 7px 7px;
   
 }
 
 .title {
   background: #e3f4ff;
   font-size: 16px;
+  padding: 10px;
+  
 }
 
 .content {
   background: #e3f4ff;
+  text-align: left;
 }
 
 .button-container {
