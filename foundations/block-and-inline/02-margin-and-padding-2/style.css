@@ -28,6 +28,8 @@ div {
 .content {
   background: #e3f4ff;
   text-align: left;
+  padding: 16px 8px;
+  margin-bottom: 8px;
 }
 
 .button-container {
