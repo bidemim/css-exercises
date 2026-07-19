@@ -5,6 +5,16 @@
   justify-content: space-between;
 }
 
+.left-links {
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+.right-links{
+  display: flex;
+}
+
 .logo {
   font-size: 48px;
   font-weight: 900;
