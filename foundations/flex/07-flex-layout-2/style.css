@@ -4,6 +4,10 @@ body {
   min-height: 100vh;
 }
 
+.header .footer .body {
+  display: flex;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
@@ -14,6 +18,7 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+
 }
 
 .sidebar {
