@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -14,7 +16,7 @@ img {
 button {
   font-family: Roboto, sans-serif;
   border: none;
-  border-radius: 8px;
+  border-radius: 8px 16px;
   background: #eee;
 }
 
@@ -64,6 +66,8 @@ ul {
   justify-content: center;
   margin: 0;
   padding: 200px;
+  flex: 1;
+  gap: 16px
 }
 
 .button, .input {
